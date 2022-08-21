@@ -44,8 +44,9 @@ aehde nal pata lag ju ga bhi computer github nal jodh gea
 
 
 git status dekhia fr add. fr commit marea te end te origin master chala ta  
-10 git pull -u origin master 
+10 git pull origin master 
  aeh manla apa ne git hub net te oo chnageas kitia ne oo dikha du ga 
 =======
- net te chnages kitia dubara  
->>>>>>> b9a626190c261e4a18d6abce9ffc2a19349f927b
+ net te chnages kitia dubara 
+laptop te chnages kitia  
+
