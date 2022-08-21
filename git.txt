@@ -38,4 +38,5 @@ sh key ban gi is tu baad apa ne add bhi krni aa
 ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAINz757KPQ74FtkSiigP+xd2nRbXgJKrm/84EJf55+UZ0 rk3340733@gmail.com
 
 9 git push -u origin master 
-data push huju ga github te 
+aehde nal pata lag ju ga bhi computer github nal jodh gea 
+ dekh chnages aaia 
