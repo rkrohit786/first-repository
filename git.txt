@@ -50,5 +50,9 @@ git status dekhia fr add. fr commit marea te end te origin master chala ta
 11 git diff git.txt
 pichli baar nalu ki chnage kita oo show kardu ga 
 
+12 git diff --staged git.txt 
+jaad apa na file nu staged area ch pej dene aa na kuj pehla changes akrke te diff kadan di try kardea  aa ta oo nahi niakl da bcz staged area ch aa oo te jai apa ne staged area da dekhna hove ta apa nu 
+ 13 git reset git.txt        and git checkout git.txt
+jai apa ne aehnu staged area tu vapis working ch pejna hove 
 
 
