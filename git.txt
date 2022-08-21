@@ -1,0 +1,11 @@
+<!-- github ta yr hosting service aa ju apa git de ivhc kara ge pp aa hosting de vihc pa dene aa bhi dekhlu jine hor bande ne dekhna te changes karnia ne kardu // -->
+<!-- bitbucket = github 
+main kam but git da a  -->
+
+git --version 
+<!-- git da version dsss du ga  -->
+
+git status 
+<!-- apa nu git da status dssu ga  -->
+ git init 
+ <!-- git repositry start kardu ga  te ik hidden folder bana du ga jehda folder open hove ga ohde vich  -->
