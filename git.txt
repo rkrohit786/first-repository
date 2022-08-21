@@ -19,4 +19,23 @@ main kam but git da a  -->
  is de nal aapni vali te commit vaaj ju ga 
 
  6 git log 
- is de nal name te email aaju gi bhi is ne changes commit kitia ne 
+ is de nal name te email aaju gi bhi is ne changes commit kitia ne
+
+7 git remote add origin git@github.com:rkrohit786/first-repository.git
+ is de nal na git da orgin start hu jnda hunda bhi data internet te push karna hove na oo chiz aa ta server ja mil jnada hunda
+
+sh key banaoni aa is baad oosdi help de nal oo data nu push kar sakde aaa computer tu othe  
+ssh-keygen -t ed25519 -C "rk3340733@gmail.com" 
+eval "$(ssh-agent -s)"
+ ssh-add ~/.ssh/id_ed25519
+
+
+sh key ban gi is tu baad apa ne add bhi krni aa 
+
+
+8 clip < ~/.ssh/id_ed25519.pub
+ aeh vali command nu apa ne git bash te copy kita sh key banju gi te aste kr sakde aa apa os nu kithe bhi 
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAINz757KPQ74FtkSiigP+xd2nRbXgJKrm/84EJf55+UZ0 rk3340733@gmail.com
+
+9 git push -u origin master 
+data push huju ga github te 
