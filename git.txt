@@ -2,10 +2,21 @@
 <!-- bitbucket = github 
 main kam but git da a  -->
 
-git --version 
+ 1 git --version 
 <!-- git da version dsss du ga  -->
 
-git status 
-<!-- apa nu git da status dssu ga  -->
- git init 
+ 2 git status 
+<!-- apa nu git da status dssu ga  is de vich menu saria untracker te tracked file dikhn gia  -->
+  3 git init 
  <!-- git repositry start kardu ga  te ik hidden folder bana du ga jehda folder open hove ga ohde vich  -->
+
+ sab tu pehla working area tu file nu stageing de vich paea jnda te chnages kitia jandia ne te jai os jagah te save karna ta commit maar lea janda bhi save kr lea janda te os tu baad jai apa ne fr chnagea karnia  ne karu te fr commit maru
+
+ pehla stageing area ch pejea janda te save karke git repostry ch pejea janda fr reppositry bandi a 
+ 4 git add . 
+ is de nal  saria files working directry tu statues area ch chlaia jan gia 
+ 5 git commit -m "version 1"
+ is de nal aapni vali te commit vaaj ju ga 
+
+ 6 git log 
+ is de nal name te email aaju gi bhi is ne changes commit kitia ne 
