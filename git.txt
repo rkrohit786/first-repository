@@ -40,3 +40,8 @@ ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAINz757KPQ74FtkSiigP+xd2nRbXgJKrm/84EJf55+UZ0
 9 git push -u origin master 
 aehde nal pata lag ju ga bhi computer github nal jodh gea 
  dekh chnages aaia 
+
+
+git status dekhia fr add. fr commit marea te end te origin master chala ta  
+10 git pull -u origin master 
+ aeh manla apa ne git hub net te oo chnageas kitia ne oo dikha du ga 
